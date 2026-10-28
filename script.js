@@ -444,7 +444,7 @@ document.getElementById('bookingForm').addEventListener('submit', e => {
     `Details: ${details || 'Please share more information.'}`;
 
   window.open(
-    `https://wa.me/918016252885?text=${encodeURIComponent(message)}`,
+    `https://wa.me/918016252858?text=${encodeURIComponent(message)}`,
     '_blank',
     'noopener'
   );
