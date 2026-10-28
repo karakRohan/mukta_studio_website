@@ -22,8 +22,8 @@ const translations = {
   ],
 
   topcall: [
-    'For bookings & enquiries: <a href="tel:8016252885">8016252885</a>',
-    'বুকিং ও তথ্যের জন্য ফোন করুন: <a href="tel:8016252885">8016252885</a>'
+    'For bookings & enquiries: <a href="tel:8016252858">8016252858</a>',
+    'বুকিং ও তথ্যের জন্য ফোন করুন: <a href="tel:8016252858">8016252858</a>'
   ],
 
   navhome: ['Home', 'হোম'],
